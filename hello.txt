@@ -1,0 +1,10 @@
+This is prem the guptas
+the commands are: 'vi' for editing the file
+the for saving: ':wqa!'
+for cancelling: ':qa!'
+git command for configuring : 'git config --global user.name yourname'
+for email also
+to initiate the git repo 'git init'
+to show hidden folders 'ls -a'
+:wqa!
+
